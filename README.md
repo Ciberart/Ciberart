@@ -27,5 +27,5 @@ Puedes conocer mas de mi trabajo aquí: [Visita mi Portafolio](https://ciberart.
 
 ### 📫 Contacto
 
-- **LinkedIn:** [Conecta conmigo en LinkedIn](www.linkedin.com/in/alexis-castillo-netzahualcoyotzi)
+- **LinkedIn:** [Conecta conmigo en LinkedIn](https://www.linkedin.com/in/alexis-castillo-netzahualcoyotzi)
 - **Email:** [Envíame un correo](mailto:alexis.castillonetz@gmail.com)
