@@ -4,7 +4,7 @@
 
 Soy un profesional enfocado en la creación de aplicaciones robustas, escalables y eficientes. Me especializo en el diseño e implementación de arquitecturas backend con el ecosistema Java, integrando bases de datos relacionales y conectándolas fluidamente con interfaces web dinámicas.
 
-🚀 **Puedes conocer mas de mi trabajo aquí: ** [Visita mi Portafolio](https://ciberart.github.io/portafolio/)
+Puedes conocer mas de mi trabajo aquí: [Visita mi Portafolio](https://ciberart.github.io/portafolio/)
 
 ---
 
